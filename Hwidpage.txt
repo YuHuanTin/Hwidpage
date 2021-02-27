@@ -1,6 +1,1 @@
-===============================================================================================================================================
-DEV,ADMIN,MOD:AFETT
-DIUQWWHEQB187321678DSAJQ1079384612BFEBFBFF000906EADIUQWWHEQB187321678DSAJQ1079384612000DQ3290UDWQ9813 AFETT
-===============================================================================================================================================
-DIUQWWHEQB187321678DSAJQ1079224763BFEBFBFF000306C3DIUQWWHEQB187321678DSAQ1079224763000DQ3290UDWQ9813 凌风
-DIUQWWHEQB187321678DSAJQ1079289974BFEBFBFF000806EADIUQWWHEQB187321678DSAJQ1079289974000DQ3290UDWQ9813 Grass
+verify<<pXyzVQ7zjAhf4eRLSVtB3Y+HawSmhOYODk662R4Haf8=||version<<1.2||pre_updat_version<<1.3
